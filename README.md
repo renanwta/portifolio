@@ -1,3 +1,3 @@
-# portifolio
+# Portifólio
 
-Teste nuna usei isso mas vou aprender em breve
+Teste nunca usei isso mas vou aprender em breve
