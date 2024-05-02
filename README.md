@@ -1,3 +1,3 @@
 # Portifólio
 
-Teste nunca usei isso mas vou aprender em breve
+Repositório com os documentos ou código de python utilizado durante os estudos e análises
